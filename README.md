@@ -21,7 +21,7 @@ my_portfolio/
 ├── index.html       # Semantically structured HTML5 skeleton & OpenGraph SEO tags
 ├── style.css        # Vanilla CSS defining layout grids, theme variables, and keyframe animations
 ├── script.js        # JavaScript handling theme toggles, scroll trackers, and numeric counters
-├── plan/
+├── docs/
 │   └── our_plan.md  # Detailed build plan of the website structure and design ideas
 └── README.md        # Project description and deployment documentation
 ```
