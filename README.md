@@ -49,6 +49,6 @@ This repository is ready to be hosted for free on GitHub Pages:
 3. In the left-hand sidebar under **Code and automation**, click **Pages**.
 4. Under **Build and deployment**:
    * Set **Source** to `Deploy from a branch`.
-   * Set **Branch** to `main` and select `/ (root)`.
+   * Set **Branch** to `main` and select `/ (root)` (do NOT select `/docs`, as the website codebase is in the root directory while `/docs` holds the planning files).
 5. Click **Save**.
 6. The site will be live at `https://wstptntp.github.io/cli_my-portfolio/` within 1-2 minutes.
